@@ -1,2 +1,3 @@
 # apnaClgDemo
-This is practice donig with apna college 
+This is practice doingg with apna college 
+Author- Adinath Panchal
