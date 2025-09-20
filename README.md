@@ -1,3 +1,4 @@
 # apnaClgDemo
-This is practice doingg with apna college 
+This practice doing with apna college 
+<br>
 Author- Adinath Panchal
